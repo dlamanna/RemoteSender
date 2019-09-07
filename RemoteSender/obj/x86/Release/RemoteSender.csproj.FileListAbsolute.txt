@@ -1,0 +1,9 @@
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\bin\Release\RemoteSender.exe
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\bin\Release\RemoteSender.pdb
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\RemoteSender.RemoteSender.resources
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\RemoteSender.Properties.Resources.resources
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\RemoteSender.exe
+C:\Users\phuzE\Dropbox\RemoteSender\RemoteSender\obj\x86\Release\RemoteSender.pdb
